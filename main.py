@@ -46,3 +46,4 @@ You've sold one of your cars. Remove it from the set with the discard() method.
 
 showroom.discard("Leaf")
 
+print(showroom)
